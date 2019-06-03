@@ -1,0 +1,1 @@
+Az alakzatoknak vannak ugyanolyan tulajdonságai és függvényei, emiatt õsosztály használatára van szükség. Viszont volt olyan class, aminek meg volt adva az õsosztálya és tartalmazott hasonló adattagokat mint az általunk definiált õsosztálynak. Mivel többszörös öröklés nincs, ezért interfésszel oldottam meg, hogy ugyanazokat a függvényeket is implementálja az osztály.
